@@ -44,9 +44,9 @@ Trabalho na [Tezus](https://www.tezus.com.br/) soluções em E-commerce.
 
 - Compartilhar o que consegui aprender nesse período.
 
-### Ferramentas e Habilidades:
+<br>
 
-|  |  |
+| Estatísticas | Ferramentas |
 |--|--|
 | ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=silrodrigo&show_icons=true&hide_border=true&count_private=true&theme=calm) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silrodrigo&langs_count=10&count_private=true&hide_border=true&theme=calm&layout=compact) |
 
