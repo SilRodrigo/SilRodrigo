@@ -22,7 +22,7 @@
 - 💼 Trabalho na [Tezus](https://www.tezus.com.br/) soluções em E-commerce.
 - 📫 Meu email: rodrigo.sil91@gmail.com
 
-### 📊 Metas 2022-2023:
+### 📊 Metas 2022:
 
 - 📂 Aprimorar o mini-framework que desenvolvi para solucionar a necessidade de implementar consumos de api e criação dinâmica de elementos no front sem a necessidade de frameworks robustos.
 
