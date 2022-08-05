@@ -1,11 +1,20 @@
-<h2 align='center'>
+
+<h1 align='center'>
   Olá, sou o Rodrigo Silva 
-</h2>
+</h1>
 
 <p align='center'>
-  Desenvolvedor Pleno Full stack  
+  Desenvolvedor Pleno Full stack    
 </p>
+<p align='center'>
 <img src="https://img.shields.io/badge/Email-rodrigo.sil91@gmail.com-green">
+</p>
+<p align='center'>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,angular,nodejs,mysql,wordpress" alt="">
+</p>
+
+
+
 
 ### Sobre Mim:
 <p>  
@@ -37,13 +46,10 @@ Trabalho na [Tezus](https://www.tezus.com.br/) soluções em E-commerce.
 
 ### Ferramentas e Habilidades:
 
-![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=silrodrigo&show_icons=true&hide_border=true&count_private=true&theme=calm)
+|  |  |
+|--|--|
+| ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=silrodrigo&show_icons=true&hide_border=true&count_private=true&theme=calm) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silrodrigo&langs_count=10&count_private=true&hide_border=true&theme=calm&layout=compact) |
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silrodrigo&langs_count=10&count_private=true&hide_border=true&theme=calm&layout=compact)
- 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,php,react,angular,nodejs,mysql,wordpress
-)](https://skillicons.dev) 
 
 <br>
 
