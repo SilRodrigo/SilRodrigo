@@ -1,10 +1,11 @@
 <h2 align='center'>
-  Olá, sou o Rodrigo Silva
+  Olá, sou o Rodrigo Silva 
 </h2>
 
 <p align='center'>
-  Desenvolvedor Pleno Full stack
+  Desenvolvedor Pleno Full stack  
 </p>
+<img src="https://img.shields.io/badge/Email-rodrigo.sil91@gmail.com-green">
 
 ### Sobre Mim:
 <p>  
