@@ -7,21 +7,19 @@
 </p>
 
 ### Sobre Mim:
-<p>
-  <em>
-    Tenho 31 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos e sou casado há 10 anos, curto música estranha e filme de boomer.
-  </em>
+<p>  
+    Tenho 31 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos e sou casado há 10 anos, curto música estranha e filme de boomer.  
 </p>
 <p> 
 
-<em>Sou estudante independente que acredita que o conhecimento não está centralizado.
+Sou estudante independente que acredita que o conhecimento não está centralizado.
 
 Trabalho na [Tezus](https://www.tezus.com.br/) soluções em E-commerce.  
-</em></p>
+</p>
 
 <p> 
 
-<em><strong>Aprendo todo dia uma coisa nova.</strong>
+<em><strong>E aprendo todo dia uma coisa nova.</strong>
 
 </em></p>
 
