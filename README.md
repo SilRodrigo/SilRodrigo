@@ -23,7 +23,7 @@ Trabalho na [Tezus](https://www.tezus.com.br/) soluções em E-commerce.
 
 </em></p>
 
-### Objetivos para 2022-2023:
+### Objetivos de 2022:
 - Atualmente estou aprendendo mais sobre React no front-end e de back-end como funcionam injeções de dependência com PHP, estruturação de dados, controllers e Apis com software Magento.
 
 - Pretendo aprimorar o mini-framework que desenvolvi para solucionar a necessidade de implementar consumos de api e criação dinâmica de elementos no front sem a necessidade de frameworks robustos.
