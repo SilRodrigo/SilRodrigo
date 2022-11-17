@@ -27,7 +27,7 @@
 
 Sou estudante independente que acredita que o conhecimento não está centralizado.
 
-Trabalho na [Tezus](https://www.tezus.com.br/) soluções em E-commerce.  
+Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 </p>
 
 <p> 
