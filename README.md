@@ -10,9 +10,12 @@
 <img src="https://img.shields.io/badge/Email-rodrigo.sil91@gmail.com-green">
 </p>
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,angular,nodejs,mysql,wordpress" alt="">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,angular,nodejs,mysql,wordpress">
 </p>
 
+<p align='center'>
+<img src="https://github.com/SilRodrigo/SilRodrigo/blob/main/insigna.svg">
+</p>
 
 
 
