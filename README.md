@@ -37,15 +37,15 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 </em></p>
 
 ### Objetivos de 2022:
-- Atualmente estou aprendendo mais sobre React no front-end e de back-end como funcionam injeções de dependência com PHP, estruturação de dados, controllers e Apis com software Magento.
+- Atualmente estou aprendendo mais sobre React no front-end e de back-end como funcionam injeções de dependência com PHP, estruturação de dados, controllers e Apis com software Magento. ✅
 
-- Pretendo aprimorar o mini-framework que desenvolvi para solucionar a necessidade de implementar consumos de api e criação dinâmica de elementos no front sem a necessidade de frameworks robustos.
+- Pretendo aprimorar o mini-framework que desenvolvi para solucionar a necessidade de implementar consumos de api e criação dinâmica de elementos no front sem a necessidade de frameworks robustos. ✅
 
-- Vou aprender mais sobre frameworks de front-end.
+- Vou aprender mais sobre frameworks de front-end. ✅
 
-- Melhorar minha compreensão sobre aplicações multiplataformas.
+- Melhorar minha compreensão sobre aplicações multiplataformas. ✅
 
-- Compartilhar o que consegui aprender nesse período.
+- Compartilhar o que consegui aprender nesse período. ✅
 
 <br>
 
