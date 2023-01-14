@@ -37,7 +37,7 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 </em></p>
 
 ### Objetivos de 2023:
-- Compreender e desestruturar as dependências do Magento com require/knockout, tendo em visto a queda de desempenho devido a esses scripts, pretendo encontrar uma solução para otimizar as métricas do Google para o Magento no frontend.
+- Compreender e desestruturar as dependências do Magento com require/knockout, tendo em vista a queda de desempenho devido a esses scripts, pretendo encontrar uma solução para otimizar as métricas do Google para o Magento no frontend.
 
 - Estudar a viabilidade em introduzir https://github.com/SilRodrigo/RdrFramework meu framework como uso padrão e substituir algumas aplicações do knockout no Magento 2.
 
