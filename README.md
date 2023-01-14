@@ -12,29 +12,30 @@
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,angular,nodejs,mysql,wordpress">
 </p>
-
 <p align='center'>
-<img src="https://github.com/SilRodrigo/SilRodrigo/blob/main/insigna.svg">
+    <img src="https://github.com/SilRodrigo/SilRodrigo/blob/main/insigna.svg">
 </p>
-
-
 
 ### Sobre Mim:
 <p>  
     Tenho 31 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos e sou casado há 10 anos, curto música estranha e filme de boomer.  
 </p>
 <p> 
-
-Sou estudante independente que acredita que o conhecimento não está centralizado.
+Sou um estudante independente que acredita que o conhecimento não deve ser monopolizado.
 
 Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 </p>
+ <p> 
+  <em><strong>E aprendo todo dia uma coisa nova.</strong></em>
+</p>
 
-<p> 
-
-<em><strong>E aprendo todo dia uma coisa nova.</strong>
-
-</em></p>
+<h3>Certificações</h3>
+  <p>
+    <a href="https://freecodecamp.org/certification/fcc302c8267-67ec-47d2-9eea-73851deecef5/javascript-algorithms-and-data-structures">Javascript Algorithms and Data Structures</a>  
+  </p>
+  <p>
+    <a href="https://freecodecamp.org/certification/fcc302c8267-67ec-47d2-9eea-73851deecef5/responsive-web-design">Responsive Web Design</a>
+  </p>  
 
 ### Objetivos de 2023:
 - Compreender e desestruturar as dependências do Magento com require/knockout, tendo em vista a queda de desempenho devido a esses scripts, pretendo encontrar uma solução para otimizar as métricas do Google para o Magento no frontend.
