@@ -31,10 +31,10 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 
 <h3>Certificações</h3>
   <p>
-    <a href="https://freecodecamp.org/certification/fcc302c8267-67ec-47d2-9eea-73851deecef5/javascript-algorithms-and-data-structures">Javascript Algorithms and Data Structures</a>  
+    <a target="_blank" href="https://freecodecamp.org/certification/fcc302c8267-67ec-47d2-9eea-73851deecef5/javascript-algorithms-and-data-structures">Javascript Algorithms and Data Structures</a>  
   </p>
   <p>
-    <a href="https://freecodecamp.org/certification/fcc302c8267-67ec-47d2-9eea-73851deecef5/responsive-web-design">Responsive Web Design</a>
+    <a target="_blank" href="https://freecodecamp.org/certification/fcc302c8267-67ec-47d2-9eea-73851deecef5/responsive-web-design">Responsive Web Design</a>
   </p>  
 
 ### Objetivos de 2023:
