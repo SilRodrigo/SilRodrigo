@@ -36,16 +36,16 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 
 </em></p>
 
-### Objetivos de 2022:
-- Atualmente estou aprendendo mais sobre React no front-end e de back-end como funcionam injeções de dependência com PHP, estruturação de dados, controllers e Apis com software Magento. ✅
+### Objetivos de 2023:
+- Compreender e destruturar as dependências do Magento e require/knockout, tendo em visto a queda de desempenho devido a esses scripts, pretendo encontrar uma solução para otimizar as métricos do Google para o Magento no frontend.
 
-- Pretendo aprimorar o mini-framework que desenvolvi para solucionar a necessidade de implementar consumos de api e criação dinâmica de elementos no front sem a necessidade de frameworks robustos. ✅
+- Estudar a viabilidade em introduzir https://github.com/SilRodrigo/RdrFramework meu framework como uso padrão e substituir algumas aplicações do knockout no Magento 2.
 
-- Vou aprender mais sobre frameworks de front-end. ✅
+- Receber a certificação Frontend Professional Magento 2
 
-- Melhorar minha compreensão sobre aplicações multiplataformas. ✅
+- Aprimorar meu conhecimento sobre desempenho e métricas para web.
 
-- Compartilhar o que consegui aprender nesse período. ✅
+- Compartilhar o que consegui aprender nesse período.
 
 <br>
 
@@ -56,7 +56,6 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 
 <br>
 
-Me inspirei no readme do [Kayke](https://github.com/Kayke-Fujinaka), guri é bom.
 
-*"Remember Sammy Jankins."*
+*"Unagi"*
 
