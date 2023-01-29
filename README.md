@@ -50,13 +50,18 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 
 <br>
 
+## Módulos desenvolvidos por mim para Magento 2
+<a href="https://packagist.org/packages/rsilva/">
+  <img src="https://img.shields.io/badge/Packagist-Rsilva%20Modules-brightgreen">
+</a>
+
+| **Módulo** | **Link** | **Descrição**
+|--|--|--|
+| Base | https://github.com/SilRodrigo/Base | Base para instalação dos demais módulos.
+| Vitrine | https://github.com/SilRodrigo/Vitrine | Marque e link produtos em posições de uma imagem.
+| ProductFilterApi | https://github.com/SilRodrigo/ProductFilterApi | Api para receber uma coleção de produtos filtrados conforme parâmetros da requisição.
+| PageBuilderExporter | https://github.com/SilRodrigo/PageBuilderExporter | Importe e exporte os templates de *page builder* de sua loja Magento.
+
 | Estatísticas | Ferramentas |
 |--|--|
 | ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=silrodrigo&show_icons=true&hide_border=true&count_private=true&theme=calm) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silrodrigo&langs_count=10&count_private=true&hide_border=true&theme=calm&layout=compact) |
-
-
-<br>
-
-
-*"Unagi"*
-
