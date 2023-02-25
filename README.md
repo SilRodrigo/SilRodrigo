@@ -35,6 +35,9 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
   </p>
   <p>
     <a target="_blank" href="https://freecodecamp.org/certification/fcc302c8267-67ec-47d2-9eea-73851deecef5/responsive-web-design">Responsive Web Design</a>
+  </p>
+  <p>
+    <a target="_blank" href="https://www.credly.com/badges/03be36f8-f974-4437-8824-1e61d40c8397/public_url">Adobe Commerce Frontend Expert</a>
   </p>  
 
 ### Objetivos de 2023:
