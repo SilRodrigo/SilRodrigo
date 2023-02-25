@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,angular,nodejs,mysql,wordpress">
 </p>
 <p align='center'>
-    <img src="https://github.com/SilRodrigo/SilRodrigo/blob/main/insigna.svg">
+    <a target="_blank" rel="noopener" href="https://www.credly.com/badges/03be36f8-f974-4437-8824-1e61d40c8397/public_url"><img src="https://github.com/SilRodrigo/SilRodrigo/blob/main/adobe-certified-expert-adobe-commerce-front-end-developer.png"></a>
 </p>
 
 ### Sobre Mim:
