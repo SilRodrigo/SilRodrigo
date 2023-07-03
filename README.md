@@ -18,7 +18,7 @@
 
 ### Sobre Mim:
 <p>  
-    Tenho 31 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos e sou casado há 10 anos, curto música estranha e filme de boomer.  
+    Tenho 32 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos e sou casado há 10 anos, curto música estranha e filme de boomer.  
 </p>
 <p> 
 Sou um estudante independente que acredita que o conhecimento não deve ser monopolizado.
@@ -43,8 +43,6 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 ### Objetivos de 2023:
 - ✅ Compreender e desestruturar as dependências do Magento com require/knockout, tendo em vista a queda de desempenho devido a esses scripts, pretendo encontrar uma solução para otimizar as métricas do Google para o Magento no frontend.
 
-- Estudar a viabilidade em introduzir https://github.com/SilRodrigo/RdrFramework meu framework como uso padrão e substituir algumas aplicações do knockout no Magento 2.
-
 - ✅ Receber a certificação Frontend Expert Magento 2
 
 - ✅ Aprimorar meu conhecimento sobre desempenho e métricas para web.
@@ -64,6 +62,7 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 | Vitrine | https://github.com/SilRodrigo/Vitrine | Marque e link produtos em posições de uma imagem.
 | ProductFilterApi | https://github.com/SilRodrigo/ProductFilterApi | Api para receber uma coleção de produtos filtrados conforme parâmetros da requisição.
 | PageBuilderExporter | https://github.com/SilRodrigo/PageBuilderExporter | Importe e exporte os templates de *page builder* de sua loja Magento.
+| UserOnboarding | https://github.com/SilRodrigo/UserOnboarding | Adicione mensagens de onboardings e tutorial na sua loja Magento.
 
 | Estatísticas | Ferramentas |
 |--|--|
