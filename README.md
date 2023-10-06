@@ -47,7 +47,7 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 
 - ✅ Aprimorar meu conhecimento sobre desempenho e métricas para web.
 
-- Compartilhar o que consegui aprender nesse período.
+- ✅ Compartilhar o que consegui aprender nesse período.
 
 <br>
 
