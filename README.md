@@ -18,7 +18,7 @@
 
 ### Sobre Mim:
 <p>  
-    Tenho 32 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos e sou casado há 10 anos, curto música estranha e filme de boomer.  
+    Tenho 32 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos, curto música estranha e filme de boomer.  
 </p>
 <p> 
 Sou um estudante independente que acredita que o conhecimento não deve ser monopolizado.
@@ -39,15 +39,6 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
   <p>
     <a target="_blank" href="https://www.credly.com/badges/03be36f8-f974-4437-8824-1e61d40c8397/public_url">Adobe Commerce Frontend Expert</a>
   </p>  
-
-### Objetivos de 2023:
-- ✅ Compreender e desestruturar as dependências do Magento com require/knockout, tendo em vista a queda de desempenho devido a esses scripts, pretendo encontrar uma solução para otimizar as métricas do Google para o Magento no frontend.
-
-- ✅ Receber a certificação Frontend Expert Magento 2
-
-- ✅ Aprimorar meu conhecimento sobre desempenho e métricas para web.
-
-- ✅ Compartilhar o que consegui aprender nesse período.
 
 <br>
 
