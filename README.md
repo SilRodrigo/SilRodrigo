@@ -18,7 +18,7 @@
 
 ### Sobre Mim:
 <p>  
-    Tenho 32 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos, curto música estranha e filme de boomer.  
+    Tenho 33 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos, curto música estranha e filme de boomer.  
 </p>
 <p> 
 Sou um estudante independente que acredita que o conhecimento não deve ser monopolizado.
@@ -49,7 +49,7 @@ Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 
 | **Módulo** | **Link** | **Descrição**
 |--|--|--|
-| Base | https://github.com/SilRodrigo/Base | Base para instalação dos demais módulos.
+| DisableTwoFactorAuth | https://github.com/SilRodrigo/rsilva-module-disabletwofactorauth | Módulo que permite desativar o 2FA somente em modo developer.
 | Vitrine | https://github.com/SilRodrigo/Vitrine | Marque e link produtos em posições de uma imagem.
 | PageBuilderExporter | https://github.com/SilRodrigo/PageBuilderExporter | Importe e exporte os templates de *page builder* de sua loja Magento.
 | UserOnboarding | https://github.com/SilRodrigo/UserOnboarding | Adicione mensagens de onboardings e tutorial na sua loja Magento.
