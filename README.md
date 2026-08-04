@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Pleno Full stack    
+  Desenvolvedor Full stack    
 </p>
 <p align='center'>
 <img src="https://img.shields.io/badge/Email-rodrigo.sil91@gmail.com-green">
