@@ -18,10 +18,10 @@
 
 ### Sobre Mim:
 <p>  
-    Tenho 33 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos, curto música estranha e filme de boomer.  
+    Tenho 35 anos, sou de interior de SP mas moro desde os 18 no sul do país, tenho 4 gatos, curto música estranha e filme antigo.  
 </p>
 <p> 
-Sou um estudante independente que acredita que o conhecimento não deve ser monopolizado.
+Acredito que o conhecimento não deve ser monopolizado.
 
 Trabalho na [Inspired By Challenge - WebJump](https://webjump.com.br/)
 </p>
